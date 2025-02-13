@@ -1,4 +1,4 @@
 function getTransportationMode() {
-  return "Car";
+  return 'Car';
 }
 module.exports = getTransportationMode;
